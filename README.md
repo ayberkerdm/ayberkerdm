@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ayberk</h1>
 <h3 align="center">Welcome To My Github Profile 👋 👋</h3>
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning **Swift and Flutter**
 
-- 💬 Ask me about **java,c#,swift**
+- 💬 Ask me about **java,c#,swift,dart**
 
 - 📫 How to reach me **ayberkerdem22@gmail.com**
 
